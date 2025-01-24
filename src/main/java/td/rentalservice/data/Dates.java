@@ -1,4 +1,4 @@
-package td.rentalService.data;
+package td.rentalservice.data;
 
 public class Dates {
 

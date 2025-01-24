@@ -1,4 +1,4 @@
-package td.rentalService.data;
+package td.rentalservice.data;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,7 +1,7 @@
-package td.rentalService.web;
+package td.rentalservice.web;
 
-import td.rentalService.data.Car;
-import td.rentalService.data.Dates;
+import td.rentalservice.data.Car;
+import td.rentalservice.data.Dates;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.web.bind.annotation.*;
